@@ -1,0 +1,8 @@
+o now we can start our project
+so this project is based on e-commerce website
+the lets start...
+
+1. First step is to planning our code
+2. In this step we want to add some key points of project 
+like
+how many models/tables we need because we will write this application in python.	
